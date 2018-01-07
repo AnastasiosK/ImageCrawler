@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageCrawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageCrawler_jar</output-path>
+    <root id="archive" name="ImageCrawler.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ImageCrawler" />
+      <element id="extracted-dir" path="D:/Java/jsoup-1.11.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
